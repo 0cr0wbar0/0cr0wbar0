@@ -1,9 +1,7 @@
-I'm Finn, a programming novice and first-year compsci uni student
+I'm Finn, a beginner programmer and second-year compsci uni student
 
-Currently learning Java :'3
+Decent experience in Java, Python, HTML, CSS and SQL
 
-I have a few months' worth of experience with Python and SQLite and that's pretty much the extent of my previous experience with programming lmao
-
-I hope to hugely expand my scope of programming languages in the coming years
+I hope to hugely expand my scope of programming languages in the coming years, starting with Rust
 
 Pronouns are he/him
