@@ -1,5 +1,5 @@
-I'm Finn, a beginner programmer and third-year compsci uni student
+I'm Finn, a beginner programmer and recent compsci graduate
 
 Decent experience in Java, Python, Rust, PHP, HTML, CSS and SQL
 
-Currently PHP-pilled and Rustmaxxing
+Currently PHP-pilled
